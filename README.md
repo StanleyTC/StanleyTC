@@ -1,4 +1,4 @@
-Olá, sou Stanley, atuo em redes e na area de informatica, sou estudante universitário e estudo programação
-tenho conhecimento em linguagens, estou utilizando o github para salvar minhas aulas sobre codigos, meus projetos e minhas ideias
+# What scares you during the night?
 
-Obrigado a paciência
+## It's a pleasure to meet you :D
+![image](https://user-images.githubusercontent.com/95464654/189456095-84ff15b8-777e-4a1f-a4f2-13a527655e56.png)
