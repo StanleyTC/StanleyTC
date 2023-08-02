@@ -1,11 +1,19 @@
 <img align="left" alt="castle image" src="https://media.tenor.com/VWcTozwLJ-IAAAAC/evil-castle.gif" width=1000 height=300>
 <div>
-<h1 aligh="center"> Hi 👋, I'm StanleyTC</h1>
-<h3>Software engineer and DevOps engineer Student</h3>
+  <br>
+<h1 align="center"> Hi 👋, I'm StanleyTC</h1>
+<h3 align="center">Software engineer and DevOps engineer Student</h3>
 </div>
 
+<p align="left">I'm a software development student with a focus on devops. <br>
+  I have knowledge in many tools and I provide repositories with the <br>
+  purpose of teaching programming content
+<div align ="right">
+</p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark)
 
+</div>
 
 
 <p align="left">
