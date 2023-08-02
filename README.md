@@ -16,8 +16,7 @@ In my github, there will be python projects, terraform projects, cloud providers
 
  <p>
   <img align="center" alt="scores" src="https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark">
-   <br>
-  <img align ="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyTC&theme=dark&layout=compact&hide_border=true" alt="top-langs" class="center">
+  <img align ="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyTC&theme=dark&layout=compact&hide_border=true" alt="top-langs" class="center">
 </p> 
 
 
