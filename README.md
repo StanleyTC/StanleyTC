@@ -1,4 +1,4 @@
-<img align="left" alt="castle image" src="https://media.tenor.com/VWcTozwLJ-IAAAAC/evil-castle.gif" width=1000 height=300>
+
 <div>
   <br>
 <h1 align="center"> Hi 👋, I'm StanleyTC</h1>
@@ -14,23 +14,15 @@ In my github, there will be python projects, terraform projects, cloud providers
 
 
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark)
-<img align="right" alt="castle image" src="https://gifdb.com/images/high/programming-crazy-hard-typing-animation-dz0h9gpwght2nl4t.webp" width=300>
-<img align ="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyTC&theme=dark&layout=compact&hide_border=true" alt="top-langs" class="center">
-
+ <p>
+  <img align="center" alt="scores" src="https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark">
+   <br>
+  <img align ="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyTC&theme=dark&layout=compact&hide_border=true" alt="top-langs" class="center">
+</p> 
 
 
 <p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+
   
   
 </p>
