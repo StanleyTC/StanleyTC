@@ -5,15 +5,23 @@
 <h3 align="center">Software engineer and DevOps engineer Student</h3>
 </div>
 
-<p align="left">I'm a software development student with a focus on devops. <br>
-  I have knowledge in many tools and I provide repositories with the <br>
-  purpose of teaching programming content
-<div align ="right">
-</p>
+
+
+
+I'm a software development student with a focus on devops. I have knowledge in many tools and I provide repositories with the purpose of teaching programming content.
+In my github, there will be python projects, terraform projects, cloud providers, and other devops tools with the purpose of helping everyone who needs to gain knowledge in these areas, at least to give a direction
+
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark)
+<img align="right" alt="cuteimage" src="https://64.media.tumblr.com/7f604957cd0cb5de7894141c43722c3a/8ace1bd3456f4ae4-90/s1280x1920/8106895c8ea865acf3eb80145f5ffae265b4ffae.png" width =400>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyTC&theme=dark&layout=compact&hide_border=true" alt="top-langs" class="center">
+
+
+<br>
+
+
 
 
 <p align="left">
