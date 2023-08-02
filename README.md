@@ -1,8 +1,11 @@
-<h1> Hi 👋, I'm StanleyTC</h1>
+<img align="left" alt="castle image" src="https://media.tenor.com/VWcTozwLJ-IAAAAC/evil-castle.gif" width=1000 height=300>
+<div>
+<h1 aligh="center"> Hi 👋, I'm StanleyTC</h1>
 <h3>Software engineer and DevOps engineer Student</h3>
-
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark)
+
 
 
 <p align="left">
