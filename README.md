@@ -16,7 +16,7 @@ In my github, there will be python projects, terraform projects, cloud providers
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyTC&show_icons=true&theme=dark)
-<img align="right" alt="castle image" src="https://gifdb.com/images/high/programming-crazy-hard-typing-animation-dz0h9gpwght2nl4t.webp" width=500>
+<img align="right" alt="castle image" src="https://gifdb.com/images/high/programming-crazy-hard-typing-animation-dz0h9gpwght2nl4t.webp" width=300>
 <img align ="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyTC&theme=dark&layout=compact&hide_border=true" alt="top-langs" class="center">
 
 
